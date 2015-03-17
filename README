@@ -1,0 +1,1 @@
+mvn jetty:run -Ddatabase.url=jdbc:postgresql://localhost:5432/clinic -Ddatabase.username= -Ddatabase.password=
